@@ -1,12 +1,5 @@
 
-*{
-    /* Putting an * makes it work on the WHOLE code */
-    /* Putting margin and padding to 0 will zero out everything it is called a reset */
-    /*
-    margin: 0;
-    padding: 0;
-    */
-}
+
 
 a{
     text-decoration: none;
@@ -22,11 +15,7 @@ a:active{
     color: green;
 }
 
-a:visited{
-    /* This changes the color of the link if the page is visited already (I dont like it)
-    color: brown;
-    */
-}
+
 
 body{
     background-color: #f4f4f4;
